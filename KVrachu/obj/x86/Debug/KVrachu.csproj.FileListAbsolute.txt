@@ -1,0 +1,9 @@
+C:\Documents\Projects\KVrachu\KVrachu\bin\Debug\KVrachu.exe
+C:\Documents\Projects\KVrachu\KVrachu\bin\Debug\KVrachu.pdb
+C:\Documents\Projects\KVrachu\KVrachu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents\Projects\KVrachu\KVrachu\obj\x86\Debug\KVrachu.Properties.Resources.resources
+C:\Documents\Projects\KVrachu\KVrachu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents\Projects\KVrachu\KVrachu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents\Projects\KVrachu\KVrachu\obj\x86\Debug\KVrachu.exe
+C:\Documents\Projects\KVrachu\KVrachu\obj\x86\Debug\KVrachu.pdb
+C:\Documents\Projects\KVrachu\KVrachu\obj\x86\Debug\KVrachu.MainForm.resources
